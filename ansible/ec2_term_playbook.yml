@@ -1,5 +1,5 @@
 ---
-### terminate AWS EC/2 instances
+### terminate AWS EC/2 instance
 - hosts: localhost
   connection: local
   gather_facts: false
